@@ -1,0 +1,27 @@
+C:\Users\jonathandoolittle18\Google Drive\Visual Basic\05JonathanDoolittleMovingFish\04JonathanDoolittleMoreMoney\bin\Debug\05JonathanDoolittleMoveFish.exe.config
+C:\Users\jonathandoolittle18\Google Drive\Visual Basic\05JonathanDoolittleMovingFish\04JonathanDoolittleMoreMoney\bin\Debug\05JonathanDoolittleMoveFish.exe
+C:\Users\jonathandoolittle18\Google Drive\Visual Basic\05JonathanDoolittleMovingFish\04JonathanDoolittleMoreMoney\bin\Debug\05JonathanDoolittleMoveFish.pdb
+C:\Users\jonathandoolittle18\Google Drive\Visual Basic\05JonathanDoolittleMovingFish\04JonathanDoolittleMoreMoney\bin\Debug\05JonathanDoolittleMoveFish.xml
+C:\Users\jonathandoolittle18\Google Drive\Visual Basic\05JonathanDoolittleMovingFish\04JonathanDoolittleMoreMoney\obj\Debug\05JonathanDoolittleMoveFish.vbprojResolveAssemblyReference.cache
+C:\Users\jonathandoolittle18\Google Drive\Visual Basic\05JonathanDoolittleMovingFish\04JonathanDoolittleMoreMoney\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\jonathandoolittle18\Google Drive\Visual Basic\05JonathanDoolittleMovingFish\04JonathanDoolittleMoreMoney\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\jonathandoolittle18\Google Drive\Visual Basic\05JonathanDoolittleMovingFish\04JonathanDoolittleMoreMoney\obj\Debug\05JonathanDoolittleMoveFish.vbproj.GenerateResource.Cache
+C:\Users\jonathandoolittle18\Google Drive\Visual Basic\05JonathanDoolittleMovingFish\04JonathanDoolittleMoreMoney\obj\Debug\05JonathanDoolittleMoveFish.exe
+C:\Users\jonathandoolittle18\Google Drive\Visual Basic\05JonathanDoolittleMovingFish\04JonathanDoolittleMoreMoney\obj\Debug\05JonathanDoolittleMoveFish.xml
+C:\Users\jonathandoolittle18\Google Drive\Visual Basic\05JonathanDoolittleMovingFish\04JonathanDoolittleMoreMoney\obj\Debug\05JonathanDoolittleMoveFish.pdb
+C:\Users\Jon\Google Drive\Visual Basic\05JonathanDoolittleMovingFish\04JonathanDoolittleMoreMoney\bin\Debug\05JonathanDoolittleMoveFish.exe.config
+C:\Users\Jon\Google Drive\Visual Basic\05JonathanDoolittleMovingFish\04JonathanDoolittleMoreMoney\obj\Debug\05JonathanDoolittleMoveFish.exe
+C:\Users\Jon\Google Drive\Visual Basic\05JonathanDoolittleMovingFish\04JonathanDoolittleMoreMoney\obj\Debug\05JonathanDoolittleMoveFish.xml
+C:\Users\Jon\Google Drive\Visual Basic\05JonathanDoolittleMovingFish\04JonathanDoolittleMoreMoney\obj\Debug\05JonathanDoolittleMoveFish.pdb
+E:\Workspaces\GitHub\VB-VHS05\05JonathanDoolittleMovingFish\src\bin\Debug\05JonathanDoolittleMoveFish.exe.config
+E:\Workspaces\GitHub\VB-VHS05\05JonathanDoolittleMovingFish\src\bin\Debug\05JonathanDoolittleMoveFish.exe
+E:\Workspaces\GitHub\VB-VHS05\05JonathanDoolittleMovingFish\src\bin\Debug\05JonathanDoolittleMoveFish.pdb
+E:\Workspaces\GitHub\VB-VHS05\05JonathanDoolittleMovingFish\src\bin\Debug\05JonathanDoolittleMoveFish.xml
+E:\Workspaces\GitHub\VB-VHS05\05JonathanDoolittleMovingFish\src\obj\Debug\05JonathanDoolittleMoveFish.vbprojAssemblyReference.cache
+E:\Workspaces\GitHub\VB-VHS05\05JonathanDoolittleMovingFish\src\obj\Debug\WindowsApplication1.Form1.resources
+E:\Workspaces\GitHub\VB-VHS05\05JonathanDoolittleMovingFish\src\obj\Debug\WindowsApplication1.Resources.resources
+E:\Workspaces\GitHub\VB-VHS05\05JonathanDoolittleMovingFish\src\obj\Debug\05JonathanDoolittleMoveFish.vbproj.GenerateResource.cache
+E:\Workspaces\GitHub\VB-VHS05\05JonathanDoolittleMovingFish\src\obj\Debug\05JonathanDoolittleMoveFish.vbproj.CoreCompileInputs.cache
+E:\Workspaces\GitHub\VB-VHS05\05JonathanDoolittleMovingFish\src\obj\Debug\05JonathanDoolittleMoveFish.exe
+E:\Workspaces\GitHub\VB-VHS05\05JonathanDoolittleMovingFish\src\obj\Debug\05JonathanDoolittleMoveFish.xml
+E:\Workspaces\GitHub\VB-VHS05\05JonathanDoolittleMovingFish\src\obj\Debug\05JonathanDoolittleMoveFish.pdb

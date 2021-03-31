@@ -1,0 +1,10 @@
+C:\Users\Jon\Google Drive\Visual Basic\07JonathanDoolittleSomeSimpleAI\04JonathanDoolittleMoreMoney\bin\Release\07JonathanDoolittleSomeSimpleAI.exe.config
+C:\Users\Jon\Google Drive\Visual Basic\07JonathanDoolittleSomeSimpleAI\04JonathanDoolittleMoreMoney\bin\Release\07JonathanDoolittleSomeSimpleAI.exe
+C:\Users\Jon\Google Drive\Visual Basic\07JonathanDoolittleSomeSimpleAI\04JonathanDoolittleMoreMoney\bin\Release\07JonathanDoolittleSomeSimpleAI.pdb
+C:\Users\Jon\Google Drive\Visual Basic\07JonathanDoolittleSomeSimpleAI\04JonathanDoolittleMoreMoney\bin\Release\07JonathanDoolittleSomeSimpleAI.xml
+C:\Users\Jon\Google Drive\Visual Basic\07JonathanDoolittleSomeSimpleAI\04JonathanDoolittleMoreMoney\obj\Release\WindowsApplication1.Form1.resources
+C:\Users\Jon\Google Drive\Visual Basic\07JonathanDoolittleSomeSimpleAI\04JonathanDoolittleMoreMoney\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\Jon\Google Drive\Visual Basic\07JonathanDoolittleSomeSimpleAI\04JonathanDoolittleMoreMoney\obj\Release\07JonathanDoolittleSomeSimpleAI.vbproj.GenerateResource.Cache
+C:\Users\Jon\Google Drive\Visual Basic\07JonathanDoolittleSomeSimpleAI\04JonathanDoolittleMoreMoney\obj\Release\07JonathanDoolittleSomeSimpleAI.exe
+C:\Users\Jon\Google Drive\Visual Basic\07JonathanDoolittleSomeSimpleAI\04JonathanDoolittleMoreMoney\obj\Release\07JonathanDoolittleSomeSimpleAI.xml
+C:\Users\Jon\Google Drive\Visual Basic\07JonathanDoolittleSomeSimpleAI\04JonathanDoolittleMoreMoney\obj\Release\07JonathanDoolittleSomeSimpleAI.pdb
